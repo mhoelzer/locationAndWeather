@@ -1,0 +1,10 @@
+h1 {
+    color: lightseagreen;
+}
+
+div {
+    border: 2px solid coral;
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+}
